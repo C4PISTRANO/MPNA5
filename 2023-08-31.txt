@@ -3,9 +3,13 @@ MPNA5
 Modelagem de Processos de negócios.
 
 retangulos com Verbos no infinitivo
-circulos o início e fim do processo
+circulos (o) (início e fim do processo)
+
 decisão <x> (escrever a pergunta em cada saída)
 junção de fluxo (losangulo)
+
+
+**não utilizar icones de mão, engrenagem, etc**
 ---------------------------------
 AS IS
 como ele é/era
@@ -14,4 +18,8 @@ TO BE
 como deve ser/será
 
 *O processo é dinâmico, se desenhamos temos que implantar*
+
+Após terminar a modelagem, colocar os indicadores.
+
+A modelagem existe para gerar valor, melhorar os processos, não para reduzir custos, resuzir mão de obra.
 
