@@ -4,8 +4,8 @@ Modelagem de Processos de negócios.
 
 retangulos com Verbos no infinitivo
 circulos o início e fim do processo
-decisão <+>
-derivação
+decisão <x> (escrever a pergunta em cada saída)
+junção de fluxo (losangulo)
 ---------------------------------
 AS IS
 como ele é/era
