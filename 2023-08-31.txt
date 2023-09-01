@@ -10,6 +10,8 @@ junção de fluxo (losangulo)
 
 
 **não utilizar icones de mão, engrenagem, etc**
+
+podemos usar o ícone de e-mail e temporizador.
 ---------------------------------
 AS IS
 como ele é/era
@@ -22,4 +24,10 @@ como deve ser/será
 Após terminar a modelagem, colocar os indicadores.
 
 A modelagem existe para gerar valor, melhorar os processos, não para reduzir custos, resuzir mão de obra.
+
+**construir um prédio é um projeto, que tem vários processos dentro**
+
+Se não desenharmos o processo não teremos qualidade.
+
+A modelagem ajuda a mapear as competências de cada indivíduo.
 
