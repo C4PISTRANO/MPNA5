@@ -50,3 +50,18 @@ data / versão/ tipo: (AS IS ou To be)
 
 Colocar a quantidade de lanes conforme quantidade de atores.
 Inicio -> PEI CONSTRUIDO -> Atividade -> REALIZAR REUNIÕES COM ANALISTAS -> Atividade -> gateway exclusivo -> 
+
+
+
+
+**** 
+Aplicação Bizagi > Criar conta
+
+Salvar como -> Arquivo
+Nome:
+CONSTRUIR PDTI V01 05-10-2023.pbm
+
+Gerar um PDF:
+Landscape
+Tamanho A3
+Escala
