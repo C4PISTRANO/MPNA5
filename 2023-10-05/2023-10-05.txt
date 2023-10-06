@@ -1,0 +1,41 @@
+Check list trabalho MPNA5
+EXEMPLO PROCESSO 2:
+
+
+Nome do processo:
+Construir XYZ
+
+
+Produto/Serviço:
+
+
+Envolvidos/Atores:
+Gestor de TI
+Analista
+Equipe de desenvolvimento de TI
+Equipe de suporte de TI
+
+Atividades:
+Realizar reuniões com Analistas (Raia1)
+Analisar objetivos do negócios PEI (Raia1)
+Alinhar objetivos as ações de TI (Raia1)
+Separar objetivos (Raia1)
+Designar para a equipe de TI (Raia1)
+Designar para a equipe de suporte
+Registrar apontamentos Desenvolvimento (3)
+Registrar apontamentos Suporte (4)
+Analisar Objetivos desenvolvimento (3) Timer 2 Semanas
+Analisar Objetivos Suporte (4) Timer 2 Semana
+Verificar considerações realizadas
+
+Eventos:
+PEI construido (início)
+2 Semanas p/ analises de desenvolv e suporte (timer)
+PDTI Revisado e publicado (fim)
+
+Documentos/Artefatos:
+Capítulo de Desenvolvimento PDTI (3)
+Capítulo de suporte PDTI (4)
+Gateways:
+obj desenvolvimento TI (Raia1)
+obj de suporte de TI (Raia1)
