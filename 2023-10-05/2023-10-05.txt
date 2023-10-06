@@ -3,11 +3,11 @@ EXEMPLO PROCESSO 2:
 
 
 Nome do processo:
-Construir XYZ
+Construir Plano estratégico XYZ...
 
 
 Produto/Serviço:
-
+PDTI Revisado e publicado
 
 Envolvidos/Atores:
 Gestor de TI
@@ -39,3 +39,9 @@ Capítulo de suporte PDTI (4)
 Gateways:
 obj desenvolvimento TI (Raia1)
 obj de suporte de TI (Raia1)
+
+
+
+DESENHO BPMN:
+
+
