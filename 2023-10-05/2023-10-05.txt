@@ -43,5 +43,10 @@ obj de suporte de TI (Raia1)
 
 
 DESENHO BPMN:
+Cabeçalho:
+Nome do processo:
+Equipe de modelagem:
+data / versão/ tipo: (AS IS ou To be)
 
-
+Colocar a quantidade de lanes conforme quantidade de atores.
+Inicio -> PEI CONSTRUIDO -> Atividade -> REALIZAR REUNIÕES COM ANALISTAS -> Atividade -> gateway exclusivo -> 
