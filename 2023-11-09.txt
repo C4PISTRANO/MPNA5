@@ -4,7 +4,7 @@ Entrega Final
 2 Atividades em sala (Individual)
 Questionário -> 23/11
 
-BPMS -> Ferramenta para automatizar a criação de telas processos.
+BPMS -> Ferramenta para automatizar a criação de telas dos artefatos.
 
 a ideia é criar um framework.
 
@@ -19,6 +19,16 @@ iBO -> Operation.
 BAM -> Activity Monitoring
 *Existe um BAM para chão de fábrica, com operação das máquinas em tempo real.
 
-SOA -> 
+SOA -> SERVICE ORIENTED ARCHITETURE
+Estrutura para transferência de dados.
+
+Chamadas, com linguagem e estrutura, protocolo de transporte.
+
+Suporte para texto, voz, imagem...
+
+
+
+
 
 **Utillizar o Bizagi Modeler
+
