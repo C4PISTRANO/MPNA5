@@ -3,3 +3,11 @@ Entrega Final
 
 2 Atividades em sala (Individual)
 Questionário -> 23/11
+
+BPMS -> Ferramenta para automatizar a criação de telas processos.
+
+a ideia é criar um framework.
+
+criar integração dos vários processos da empresa.
+
+utiliza o SOA para fazer o encapsulamento dos dados.
