@@ -11,3 +11,14 @@ a ideia é criar um framework.
 criar integração dos vários processos da empresa.
 
 utiliza o SOA para fazer o encapsulamento dos dados.
+
+iBPMS ->INTELLIGENT BUSINESS PROCESS MANEGEMENT SUITE
+
+iBO -> Operation.
+
+BAM -> Activity Monitoring
+*Existe um BAM para chão de fábrica, com operação das máquinas em tempo real.
+
+SOA -> 
+
+**Utillizar o Bizagi Modeler
