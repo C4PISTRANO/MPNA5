@@ -26,3 +26,7 @@ Automation Anywhere
 
 **custo de oportunidade = em ADM, outra coisa que poderiamos estar fazendo, outra atividade.
 
+RPA e IA:
+Robô executa atividades predefinidas baseadas em regras.
+
+A IA tem a capacidade de aprendizado e resolução de problemas complexos.
