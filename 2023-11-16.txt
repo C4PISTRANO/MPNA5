@@ -5,3 +5,22 @@ não é robótica de fábrica ou robôs de filme.
 RPA, é uma sequência de atividades programadas para fazer, baseadas nas regras pré definidas.
 
 exemplo de uso para RPA, recebimento e filtragem de currículos no RH.
+
+
+justificar a aplicação de um RPA, apontando os pain points.
+
+Automação assistida e não assistida.
+
+ferramenta de desenvolvimento
+robô
+plataforma de controle
+agente
+
+*leitura de PDF
+
+ARQUITETURA RPA:
+
+Ferramentas
+UI Path
+Automation Anywhere
+
