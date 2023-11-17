@@ -24,3 +24,5 @@ Ferramentas
 UI Path
 Automation Anywhere
 
+**custo de oportunidade = em ADM, outra coisa que poderiamos estar fazendo, outra atividade.
+
